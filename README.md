@@ -6,10 +6,9 @@ https://stephenttu.github.io/HCI_Project1/
 https://i.imgur.com/56Bxjtq.mp4
 
   a.	Issues with current design:
-
 	One issue with the current design is that the interface is very plain, and all the buttons look and feel the same. While there is audio feedback when something is pressed, it is a very cheap physical keypad which requires a lot of pressure and no tactile feedback. The design would benefit from providing easily differentiable buttons for the user, as well as using higher quality buttons so that there is more feedback. 
 
-	Another issue, not shown in the image, is a design error with the alarm that goes off when something is done cooking. If you do not shut off the alarm after the first of four long beeps, then it will continue to output the alarm even after you open the microwave door. This tends to be very annoying for the user, since if they do not press “Stop” before the second beep then it will continue as if the microwave does not know already been opened.  
+Another issue, not shown in the image, is a design error with the alarm that goes off when something is done cooking. If you do not shut off the alarm after the first of four long beeps, then it will continue to output the alarm even after you open the microwave door. This tends to be very annoying for the user, since if they do not press “Stop” before the second beep then it will continue as if the microwave does not know already been opened.  
 
 2.	Common Uses
   a.	Common Uses
