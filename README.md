@@ -4,7 +4,7 @@ https://stephenttu.github.io/HCI_Project1/
 
 1. Existing Control Interface Operation
 
-![](https://i.imgur.com/56Bxjtq.mp4)
+![](https://s4.gifyu.com/images/ezgif.com-gif-makerd2f9ebc01dd28cc7.gif)
 
   a.	Issues with current design:
 
