@@ -52,3 +52,6 @@ Another issue, not shown in the image, is a design error with the alarm that goe
     i.	All the less used features will be under a sub-menu to less clutter the common use case area. This will make the interface less complicated to new users, as well as allow for quicker operation most of the time. 
 
 ![image](https://user-images.githubusercontent.com/44310797/109429423-477dae00-79c1-11eb-8eee-fa381250ab7c.png)
+
+
+Youtube Link: https://youtu.be/E8qzGvFHj1s
