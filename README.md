@@ -2,7 +2,7 @@ HCI_Project1
 Project Link
 https://stephenttu.github.io/HCI_Project1/
 
-#1. Existing Control Interface Operation
+# 1. Existing Control Interface Operation
 =============
 https://i.imgur.com/56Bxjtq.mp4
 
@@ -11,7 +11,7 @@ https://i.imgur.com/56Bxjtq.mp4
 
 Another issue, not shown in the image, is a design error with the alarm that goes off when something is done cooking. If you do not shut off the alarm after the first of four long beeps, then it will continue to output the alarm even after you open the microwave door. This tends to be very annoying for the user, since if they do not press “Stop” before the second beep then it will continue as if the microwave does not know already been opened.  
 
-#2.	Common Uses
+# 2. Common Uses
   a.	Common Uses
     i.	Simple timer cooking (“Microwave for 55-60 sec.”)
     ii.	“+30 sec.” button
@@ -42,7 +42,7 @@ Another issue, not shown in the image, is a design error with the alarm that goe
 
 
 
-#3.	Improvements
+# 3. Improvements
   a.	Tactile, or more visual feedback
     i.	I suggest this because the feedback provided to the user is not sufficient, the keypad is very cheap and besides audio response there is no way to tell if you pressed the key or not. The keypad will also be lit with LEDs which will not only make it easier to see in dim settings but will also display which key has recently been pressed.
 
